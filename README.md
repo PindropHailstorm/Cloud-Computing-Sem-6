@@ -1,1 +1,1 @@
-# Cloud-Computing-Sem-6
+# Cloud Computing practicals Semester 6
